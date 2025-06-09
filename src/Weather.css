@@ -1,0 +1,14 @@
+.inputSearch,
+.buttonSearch {
+  font-size: 16px;
+}
+
+li {
+  list-style: none;
+}
+
+.city {
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 18px;
+}
